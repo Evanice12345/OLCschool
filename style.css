@@ -1,0 +1,54 @@
+body
+{
+   text-align: center;
+    background-color: white;
+}
+
+.menu{
+    font-size: 27px;
+    list-style: none;
+    font-family: Georgia;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+#Student_Council{
+    max-width: 750px;
+    margin: 27px auto ;
+    font-size: 27px;
+    line-height: 1.3;
+}
+
+#SC_p{
+    max-width: 750px;
+    margin: 27px auto ;
+    font-size: 27px;
+    line-height: 1.3;
+}
+#SC{
+    width: 300px;
+    
+}
+.links{
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+#Project{
+    width: 550px;
+    
+}
+.Projects, .FunDays, .Student_Council, .Contact_Info{
+font-size: 30px;
+font-family: Georgia;
+
+}
+#marqueeStyle{
+   color: pink;
+}
